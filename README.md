@@ -1,4 +1,4 @@
-# Objects - Part 2
+# Deeper Objects
 
 ### Nested Arrays, Nested Objects, Arrays in Objects, Objects in Arrays, ability to access anything and everything!
 
