@@ -1,3 +1,7 @@
+/*
+* Function that access every key value pair in the nested array
+* in an array 
+*/
 function accessObjectInArray(arr){
 	//Print the parameter being passed through
 	console.log("Parameter: ")
@@ -49,6 +53,9 @@ console.log("*** Accessing Objects in Arrays ***\n");
 accessObjectInArray(objInArr);
 console.log("\n*** End ***\n")
 
+/*
+* Function that iterates accesses every value in the nested object
+*/
 function accessArrayInObject(obj){
 	//Is the parameter an array or an object?
 
@@ -92,6 +99,9 @@ accessArrayInObject(arrInObj);
 
 console.log("\n*** End ***\n");
 
+/*
+* Function that accesses every key value pair in the nested object
+*/
 function accessObjectInObject(obj){
 	//Print the parameter
 	console.log(obj);
